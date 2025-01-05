@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![NealHangLu](https://img.shields.io/badge/NealHangLu-github-blue?logo=github)](https://github.com/NealHangLu)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am an experienced engineer with a focus on AI, LLM, big data analytics, and automation engineering. I have over 10 years of comprehensive experience spanning research, development, and the creation of products from concept to launch.
+
 
 #### Email
-sli[at]cumt.edu.cn
+neallvhang[at]126.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Engineering, Iowa State University USA, 2013—2015 .\
+B.S., Automation, Beijing Jiaotong University, 2009—2015.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+#### Professional Experience
+- **AI Engineer**: Specialized in the research and application of AI technologies across Natural Language Processing (NLP), image processing, and information security projects.
+- **LLM Specialist**: Focused on the development and deployment of domain-specific LLMs and the creation of various applications leveraging LLM technology. RAG, Agent, Multi-Agents.
+- **Data Analytics**: Skilled in handling big data for insights and decision-making.
+- **Automation Engineering**: Proficient in designing and implementing automated systems.
