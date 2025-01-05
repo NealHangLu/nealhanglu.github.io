@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
+- Independent developer(part time), 2024-.
 
-- First-prize Scholarship of CUMT, 2024.
+- AI/Data Scientist Trip.com, 2017-2025.
 
-- First-prize Scholarship of CUMT, 2023.
+- AI Engineer, Huawei, 2016.
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Data Engineer, ABB, 2016.
