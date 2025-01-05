@@ -9,8 +9,8 @@ I am an AI expert and entrepreneur with a focus on <strong>LLM, big data analyti
 nealhanglu[at]outlook.com
 
 #### Education
-M.S., Engineering, Iowa State University USA, 2013—2015 .\
-B.S., Automation, Beijing Jiaotong University, 2009—2015.
+M.S., Engineering, Iowa State University USA.\
+B.S., Automation, Beijing Jiaotong University.
 
 
 #### Professional Experience
